@@ -1,6 +1,5 @@
 # Fuzzy Logic Credit Evaluation
 
-![Fuzzy Logic](https://link.to/your/image) <!-- Add a representative image here -->
 
 ## Table of Contents
 
@@ -26,10 +25,10 @@ By utilizing fuzzy logic techniques, the project offers a flexible and interpret
 
 ## Installation
 
-1. Clone the repository using:
+1. Clone the repository using the following command:
 
    ```bash
-   git clone [git clone https://github.com/akshitaadhikari/Fuzzy_Logic_Credit_Evaluation.git](https://github.com/akshitaadhikari/Fuzzy_Logic_Credit_Evaluation.git)
+   git clone https://github.com/akshitaadhikari/Fuzzy_Logic_Credit_Evaluation.git
 
 2. Navigate to the project directory:
 
